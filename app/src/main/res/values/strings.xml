@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Expensify App Challenge</string>
+
+    <!-- Strings related to login -->
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="signing_in_hint">Signing in...</string>
+
+    <!-- UI labels -->
+    <string name="create_new_expense_label">Create Expense</string>
+    <string name="expense_date_label">Expense Date</string>
+    <string name="merchant_label">Merchant</string>
+    <string name="amount_label">Expense Amount(in $)</string>
+    <string name="amount_hint">0.00</string>
+    <string name="save">Save</string>
+
+    <!-- Expense Filters -->
+    <string name="today_expenses">Today\'s Expenses</string>
+    <string name="last_2_days_expenses">Last 2 Days Expenses</string>
+    <string name="last_7_days_expenses">Last 7 Days Expenses</string>
+    <string name="last_30_days_expenses">Last 30 Days Expenses</string>
+
+    <!-- Strings related to error messages -->
+    <string name="check_your_network_connection_message">Please check your network connectivity and try again.</string>
+    <string name="network_connection_error_message">Problem in connection. Please try again.</string>
+    <string name="validate_merchant_name">Please enter a merchant name.</string>
+
+</resources>

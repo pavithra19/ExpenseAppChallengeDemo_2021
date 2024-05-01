@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="expense_filter">
+        <item>@string/today_expenses</item>
+        <item>@string/last_2_days_expenses</item>
+        <item>@string/last_7_days_expenses</item>
+        <item>@string/last_30_days_expenses</item>
+    </string-array>
+</resources>
