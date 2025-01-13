@@ -1,3 +1,3 @@
 # ExpenseAppChallangeDemo
 
-#This app is created for a given sample requirements within given time span
+#This app is developed from the requirements mentioned in the 2021 app challenge within provided time span.
